@@ -1,0 +1,10 @@
+{
+  "name": "AAAAAlanguage",
+  "version_number": "0.0.1",
+  "website_url": "",
+  "description": "Language mod me and some of my friends made :)",
+  "dependencies": [
+    "tristanmcpherson-R2API-2.5.11",
+    "Harb-AssetPlusRequester-1.0.0"
+  ]
+}
