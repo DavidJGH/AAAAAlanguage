@@ -1,7 +1,6 @@
 {
-	strings:
+	"strings":
 	{
-	//[NULL]
 	"NULL_SUBTITLE": "Horde of Many",
 	"DEFAULT_SKIN" : "Default",
 
@@ -16,7 +15,6 @@
 	"BODY_MODIFIER_DOPPELGANGER": "Umbra of {0}",
 	"BODY_MODIFIER_ECHO": "{0} ",
 
-	//[CHARACTER]
 	"COMMANDO_BODY_NAME": "Commando",
 	"COMMANDO_BODY_SUBTITLE" : "Cornered Gunslinger",
 	"COMMANDO_PRIMARY_NAME": "Double Tap",
@@ -288,7 +286,6 @@
 	"ENFORCER_BODY_NAME": "Enforcer",
 	"BOMBER_BODY_NAME": "Bomber",
 
-	//[MONSTER]
 	"BEETLE_BODY_NAME": "Beetle",
 	"BEETLE_BODY_LORE" : "<style=cMono>\r\n$ Transcribing image... done.\r\n$ Resolving... done.\r\n$ Outputting text strings... done.\r\nComplete!\r\n</style>\r\n\r\nThis is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in conjunction with the UES Research and Documentation of Outer Life. I am joined by my good friend Tharson, who is keeping me safe through this journey.\r\n\r\n---------------------\r\n\r\nWe have encountered more outer life - what a wonderful surprise! As we scavenged for food, the ground began to shift, and many large insect-like creatures began to burrow out from the ground. \r\n\r\nI will describe its properties below. I have assigned their common name as \u2018Worker Beetle\u2019.\r\n\r\n\u2022 About the size of a small cow. Quadruped, with two large front-limbs. Moves similar to an earthen gorilla. Five eyes.\r\n\r\n\u2022 The Beetle has two armor-like chitin plates on its head and back, presumably for defense. It seems to secrete a waxy substance.\r\n\r\n\u2022 Beetles appear to be social in nature, with a hierarchy I cannot discern. I witnessed a group of 4 beetles resting under a tree, when a stray fifth came around. They promptly sprang up and repeatedly head-butted the creature until it left, battered and bruised.\r\n\r\n\u2022 Tharson has reported to me that the Beetles are highly aggressive and territorial. \r\n",
 	"BEETLEGUARD_BODY_NAME": "Beetle Guard",
@@ -338,7 +335,6 @@
 	"LUNAREXPLODER_BODY_NAME" : "Lunar Chimera",
 	"LUNAREXPLODER_BODY_SUBTITLE" : "Zenith Designs",
 	"LUNAREXPLODER_BODY_LORE" : "Production driven. Powered by refuse \u2013 all material has value.\r\n\r\nSimple designs. Simple interference. Simple locomotion. \r\n\r\nQuality of components reduces stability. I will tie destruction with destruction.\r\n",
-	//[BOSS]
 	"BEETLEQUEEN_BODY_NAME": "Beetle Queen",
 	"BEETLEQUEEN_BODY_SUBTITLE": "Swarm Mother",
 	"BEETLEQUEEN_BODY_LORE": "<style=cMono>\r\nWelcome to DataScraper (v3.1.53 \u2013 beta branch)\r\n$ Scraping memory... done.\r\n$ Resolving... done.\r\n$ Combing for relevant data... done.\r\nComplete!\r\n<\/style>\r\nThis is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in conjunction with the UES Research and Documentation of Outer Life. I am joined by my good friend Tharson, who is keeping me safe through this journey.\r\n\r\n---------------------\r\nJust like standard Earth insects, the Worker Beetles and Beetle Guards all serve a Queen, which we recently discovered during an archeological dig.\r\n\r\nI will describe her properties below. I have assigned her common name as \u201CBeetle Queen\u201D.\r\n\r\n* Just like other insect queens, the Beetle Queen dwarves her subjects. However, her size is much greater than it should be for an insect queen. Does this mean that the Queen herself hunts rather than sending her drones?\r\n\r\n* The Beetle Queen issues orders via pheromone emission. Merely being in the presence of the Queen gave the air a sickly sweet aroma, and Tharson reported light-headedness and trouble thinking clearly.\r\n\r\n* The Queen\u2019s bile is incredibly acidic, clocking in at a whopping 0.05 on the pH scale. Immediately upon exposure to a test sample of steel, it began to dissolve and spew noxious fumes. Tharson is OK from this encounter.\r\n\r\n* The Queen is able to summon unique Beetle specimens that can fly. These drones do not appear anywhere else on the planet \u2013 do these drones act as attendants to the Queen? Observing these flying drones is challenging \u2013 they only seem to last for a few seconds before expiring.\r\n",
@@ -388,7 +384,6 @@
 	"BROTHER_BODY_NAME" : "Mithrix",
 	"BROTHER_BODY_SUBTITLE" : "King of Nothing",
 	"BROTHER_BODY_LORE" : "They knew to stay away from the wells - but they were just kids. And they just wanted to know.\r\n\r\nThey threw in dirt and stone and kifruit and starseed, watching as they collapsed. Thorp! The gravity wells would swallow up anything. Glass and mud and silver. Wind. Heat. Pulsar radiation.\r\n\r\nAnd when his brother wasn\u2019t watching, Mithrix would throw in worms. Thorp! But only when he wasn\u2019t watching. You see, his brother loved worms. It would make him sad. But Mithrix didn\u2019t care much about worms. He was just curious.\r\n\r\nBut one time, his brother was watching. And his brother loved worms.\r\n",
-	//[DRONE]
 	"DRONE_GUNNER_BODY_NAME": "Gunner Drone",
 	"DRONE_HEALING_BODY_NAME": "Healing Drone",
 	"DRONE_BACKUP_BODY_NAME": "Strike Drone",
@@ -398,10 +393,8 @@
 	"FLAMEDRONE_BODY_NAME" : "Incinerator Drone",
 	"EMERGENCYDRONE_BODY_NAME" : "Emergency Drone",
 
-	//[INTERACTORS/BODY]
 	"TURRET1_BODY_NAME": "Gunner Turret",
 
-	//[MISC]
 	"ENGITURRET_BODY_NAME": "Engineer Turret",
 	"POT2_BODY_NAME": "Pot",
 	"FUSIONCELL_BODY_NAME": "Fusion Cell",
@@ -422,6 +415,6 @@
 	"ROBOBALLREDBUDDY_BODY_NAME" : "Quiet Probe",
 	"ROBOBALLGREENBUDDY_BODY_NAME" : "Delighted Probe",
 	"SKILL_GENERIC_CANCEL_NAME" : "Cancel",
-	"SKILL_GENERIC_CANCEL_DESCRIPTION" : "Cancel the skill.",
+	"SKILL_GENERIC_CANCEL_DESCRIPTION" : "Cancel the skill."
 	}
 }

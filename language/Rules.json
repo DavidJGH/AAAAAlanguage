@@ -36,6 +36,6 @@
 		"RULE_OFF_FORMAT" : "{0} (Disabled)",
 
 		"RULE_DESCRIPTION_FORMAT" : "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
-		"RULE_EDIT_FORMAT" : "<mark=#{2}><b>[ Edit {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+		"RULE_EDIT_FORMAT" : "<mark=#{2}><b>[ Edit {0} ]</b>\n\n</mark><style=cSub>{1}</style>"
 	}
 }

@@ -26,6 +26,6 @@
 		"OBJECTIVE_MOON_CHARGE_DROPSHIP": "Defend the <style=cHumanObjective>Rescue Ship</style> ({0}%)",
 		"OBJECTIVE_MOON_CHARGE_DROPSHIP_OOB": "Defend the <style=cHumanObjective>Rescue Ship!</style>({0}%)",
 		"OBJECTIVE_MOON_DROPSHIP_WAIT_FOR_ALLIES": "Escape!",
-		"OBJECTIVE_FRACTION_PROGRESS_FORMAT": "{0} ({1}/{2})",
+		"OBJECTIVE_FRACTION_PROGRESS_FORMAT": "{0} ({1}/{2})"
 	}
 }

@@ -1,5 +1,5 @@
 {
-	strings:
+	"strings":
 	{
 		"NEW_UNLOCKABLE" : "NEW",
 		"LOCKED" : "LOCKED",
@@ -63,6 +63,6 @@
 		"UNLOCKABLE_LOG_STAGES_LIMBO" : "Environment Log: A Moment, Whole",
 		"UNLOCKABLE_LOG_STAGES_SKYMEADOW" : "Environment Log: Sky Meadow",
 		"UNLOCKABLE_LOG_STAGES_ARTIFACTWORLD" : "Environment Log: Bulwark's Ambry",
-		"UNLOCKABLE_LOG_STAGES_MOON" : "Environment Log: Commencement",
+		"UNLOCKABLE_LOG_STAGES_MOON" : "Environment Log: Commencement"
 	}
 }

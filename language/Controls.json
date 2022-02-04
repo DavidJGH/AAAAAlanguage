@@ -1,5 +1,5 @@
 {
-	strings:
+	"strings":
 	{
 		"ACTION_MOVE_HORIZONTAL" : "Move Horizontal",
 		"ACTION_MOVE_VERTICAL" : "Move Vertical",
@@ -20,6 +20,6 @@
 		"ACTION_MOVE_VERTICAL_POSITIVE" : "Move Forward",
 		"ACTION_MOVE_VERTICAL_NEGATIVE" : "Move Backward",
 		"ACTION_MOVE_HORIZONTAL_POSITIVE" : "Move Right",
-		"ACTION_MOVE_HORIZONTAL_NEGATIVE" : "Move Left",
+		"ACTION_MOVE_HORIZONTAL_NEGATIVE" : "Move Left"
 	}
 }
