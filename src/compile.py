@@ -54,3 +54,5 @@ for filename in includeFiles:
     shutil.copy2(filename, outPath+'/unzipped')
 
 shutil.make_archive(outPath+'/'+publisher+'-'+modname+'-'+version, 'zip', outPath+'/unzipped')
+
+print('version ' + version + ' successfully compiled!')
